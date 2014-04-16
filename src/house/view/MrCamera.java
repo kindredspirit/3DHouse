@@ -10,7 +10,7 @@ import house.math.MatrixFactory;
  * Class Camera - describes a floating eye with an initial position, view direction
  * 				  and the point currently being looked at, rotation
  * @author Michael Branton
- * Modified by Moebot
+ * Modified by Moebot (Brittany Alkire)
  */
 
 public class MrCamera {
