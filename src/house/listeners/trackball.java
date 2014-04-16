@@ -50,6 +50,7 @@ package house.listeners;
  *
  * Much mucking with by:
  * Gavin Bell
+ * Brittany Alkire
  *
  * Java version by Tim Lambert, following the method names used
  * in Magician, and adding some more methods to make it easier to use
