@@ -4,6 +4,9 @@ import javax.media.opengl.*;
 import javax.media.opengl.awt.GLCanvas;
 import com.jogamp.opengl.util.*;
 
+/**
+ * Author: Moebot (Brittany Alkire) 
+ **/
 public abstract class OGLapp implements  GLEventListener
 { 
 	
