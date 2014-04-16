@@ -1,6 +1,7 @@
 package house.buffers_and_shaders;
 /**
  * @author mbranton
+ * Modified by: Moebot (Brittany Alkire)
  * based on code from http://webdevtown.com/index.php/forum/14-java-jogl/15-jogl-example-glsl-shader-setup
  *
  * Created: on July 24, 2011
