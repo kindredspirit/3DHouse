@@ -8,7 +8,7 @@ import house.view.MrCamera;
 /**
  * Class KeyEvents - describes what to do with the camera upon changes is key states
  * @extends KeyAdapter - the thing that apparently adapts to your keys
- * @author Moebot
+ * @author Moebot (Brittany Alkire)
  * Created: 13 Sept 2011
  * Edited: 21 Oct 2011 - STRAFING NOW WORKS! (or perhaps more accurately, i quit being stupid)
  */
