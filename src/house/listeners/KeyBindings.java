@@ -6,7 +6,7 @@ import java.util.HashMap;
  * Class KeyBindings - defines the set of keys for interactive scene viewing
  * 					-uses a hash map to bind keys by their keyCode and an associate ID
  * 					-key mapping set to resemble standard character movements in gaming
- * @author Moebot
+ * @author Moebot (Brittany Alkire)
  * Date created: 13 Sept, 2011
  */
 public class KeyBindings {
