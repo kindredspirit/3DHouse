@@ -1,6 +1,7 @@
 package house.math;
 /**
  * @author mbranton
+ * Modified by: Moebot (Brittany Alkire)
  * Created: on July 24, 2011
  *
  * Purpose: provides static methods for matrix and vector operations
