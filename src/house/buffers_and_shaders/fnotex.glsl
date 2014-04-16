@@ -1,4 +1,7 @@
 #version 130
+
+//Author Brittany Alkire
+
 in vec4 color;
 in vec3 N;
 in vec3 L;
