@@ -1,4 +1,9 @@
 package house.listeners;
+
+/**
+ * Author: Moebot (Brittany Alkire)
+ * 
+ **/
 public class SpinListener extends trackball
 {
 	protected boolean contspin = false;
