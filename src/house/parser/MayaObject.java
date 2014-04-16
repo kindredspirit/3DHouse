@@ -9,7 +9,11 @@ import java.util.Vector;
 
 import javax.media.opengl.GL;
 
-
+/**
+ * Author: Moebot (Brittany Alkire) 
+ * 
+ **/
+ 
 public class MayaObject extends GLGeometry{
 	private Vector<Float> _vertices;
 	private Vector<Float> _textureCoords;
