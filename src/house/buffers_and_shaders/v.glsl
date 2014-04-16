@@ -1,5 +1,7 @@
 #version 130
 
+//Author Brittany Alkire
+
 in vec4 		vPosition;					
 in vec4			vColor;						
 in vec3 		vNormal;					
