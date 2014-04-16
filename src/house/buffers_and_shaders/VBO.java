@@ -1,7 +1,7 @@
 package house.buffers_and_shaders;
 /**
  * @author mbranton
- * 
+ * Modified by: Moebot (Brittany Alkire)
  * Created: on July 24, 2011
  * 
  * Purpose: encapsulate creating a vertex buffer object from an 
